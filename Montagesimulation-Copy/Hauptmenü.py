@@ -21,4 +21,4 @@ with col1:
 
 with col2:
    st.header("Link zum Tool")
-   st.image("QR.jpg",width=240)
+   st.image("QR.jpg",width=240
